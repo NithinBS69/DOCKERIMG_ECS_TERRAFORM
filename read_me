@@ -1,0 +1,2 @@
+docker image can be pulled from: docker pull bradfordhamilton/crystal_blockchain
+once after pulling the image configure the terraform files and run the terraform commands
